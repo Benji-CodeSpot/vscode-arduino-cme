@@ -245,3 +245,5 @@ This extension is licensed under the [MIT License](https://github.com/vscode-ard
 
 ## Contact Us
 TBD
+## Forked From 
+https://github.com/vscode-arduino/vscode-arduino
